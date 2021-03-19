@@ -48,3 +48,4 @@ in advance. You can find the dates/times for future meetings on the Node.js [cal
 - [@tniessen](https://github.com/tniessen) - Tobias Nießen
 - [@trivikr](https://github.com/trivikr) - Trivikram Kamat
 - [@wesleytodd](https://github.com/wesleytodd) - Wes Todd
+- [@ikmrgrv](https://github.com/ikmrgrv) - Kumar Gaurav
